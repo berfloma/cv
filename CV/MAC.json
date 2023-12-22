@@ -78,7 +78,61 @@
             "startDate": "2022-06-01",
             "challenges": [
               {
-                "description": "📍​ Location-based solutions for 4G and 5G technology users.\n​📈​ Churn analysis\n🧮 MLOps environment implementation"
+                "description": "Data scientist in the Innovation department.\n📍​ Location-based solutions for 4G and 5G technology users.\n​📈​ Churn analysis\n🧮 MLOps environment implementation\nData Viz"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Databricks",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Scikit-learn",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
               }
             ]
           }
