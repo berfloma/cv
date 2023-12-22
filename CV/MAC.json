@@ -431,7 +431,12 @@
         "name": "MsC Civil Engineering",
         "startDate": "2016-09-01",
         "institution": {
-          "name": "Universitat Politecnica de Valencia"
+          "name": "Universitat Politecnica de Valencia",
+          "description": "Master's degree covering the three main branches: structures, hydraulic, and transportation, with a specialization in transportation and mobility analysis.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/54cd426a-086b-4cae-a5c7-d825e8950235_upv-emblem.png",
+            "alt": "UPV-Emblem.png"
+          }
         },
         "finishDate": "2018-06-01",
         "linkedCompetences": [
