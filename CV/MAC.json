@@ -58,7 +58,45 @@
             "startDate": "2023-07-01",
             "challenges": [
               {
-                "description": "📋 Team ceremonies leader\n🛠️ Solutions presentation to clients\n💹 Time series forecasting\n📊 ML algorithms implementation"
+                "description": "Responsible for managing the team. Part manager, part hands-on developer. Some of the projects I'm working on:\n\n- Time series forecasting\n- ML algorithms implementation\n- SKLearn algorithms implementation\n- Dasboard developmet\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "BigQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Databricks",
+                "type": "technology"
+              },
+              {
+                "name": "Google Looker Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
               }
             ]
           }
