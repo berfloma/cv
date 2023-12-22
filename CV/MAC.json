@@ -386,7 +386,11 @@
         "name": "MsC Big Data Analytics",
         "startDate": "2019-09-01",
         "institution": {
-          "name": "Universitat Politecnica de Valencia"
+          "name": "Universitat Politecnica de Valencia",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/2e081960-de28-4f50-99ad-c8e9fff87cc3_upv-emblem.png",
+            "alt": "UPV-Emblem.png"
+          }
         },
         "finishDate": "2020-06-01",
         "linkedCompetences": [
