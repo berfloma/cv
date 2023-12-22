@@ -387,6 +387,7 @@
         "startDate": "2019-09-01",
         "institution": {
           "name": "Universitat Politecnica de Valencia",
+          "description": "Master's degree covering the following courses:\n• Introducción to big data\n• Introducción to business intelligence\n• Big data models and management environments\n• Privacity\n• What is the meaning of data science?\n• Tools for result visualization\n• Medical information visualization\n• IOT\n• Big data architectures in bank insvestment\n• Bash/Unix basics\n• Statistical tolos in big data\n• Cloud computing and data cloud management\n• Last generation tolos in big data\n• Big data and real time\n• Security and privacity\n• Natural language processing y text mining\n• Text mining in social media\n• Financial analysis\n• Nosql",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/2e081960-de28-4f50-99ad-c8e9fff87cc3_upv-emblem.png",
             "alt": "UPV-Emblem.png"
