@@ -1,27 +1,37 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Berta",
-      "surnames": "Flores",
+      "surnames": "Flores Martínez",
       "title": "Data Scientist and civil engineer",
       "description": "I consider my analytical and problem-solving skills, advanced knowledge of applied mathematics and statistics along my education background to make me a good fit for a new position.\n\nAs a Civil engineer specialist in the mobility and transportation field, I have four years of professional experience collecting, cleaning and interpreting location-based traffic data to develop and help projects making decisions based on data analytics.\n\nIn my current role at CPS, I've introduced new analytical techniques, key data sources (such as phone geolocation, GPS tracker and travel time data) using multiple input formats, including but not limited to API connections, external and internal databases, and third party services, empowering the development of new and existing products. For the last 8 months, I have been leading a team of 5 people, developing transport simulation models, where my role has been not only the technical expertise, but also the project management and coordination of the employees under my supervision. \n\nDue to my interest in statistics and programming, I acquired knowledge in Python through self-study and a masters in Big Data Analytics. This knowledge has been useful not only in my professional career, but also in my side projects. The most relevant one for this position is my participation in one of the biggest data hackathons in Spain, where along with a colleage, we developed a data analytics platform to analyze the impact that music festivals had on BlaBlacar, one of the most important mobility services in Spain. Our data processing, along with the visual representation of the results were a key factor on achieving the second position on the competition.",
       "avatar": {
-        "alt": "prof_pic_sq.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/89a7d26f-1a1c-43b0-8758-04e54db548ec_prof_pic_sq.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/89a7d26f-1a1c-43b0-8758-04e54db548ec_prof_pic_sq.jpg",
+        "alt": "prof_pic_sq.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "National hackaton award",
+        "fact": "https://datatontos.mantas.space/"
+      }
+    ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/bertafloresmartinez"
+      },
       {
         "type": "github",
         "URL": "https://github.com/berfloma"
@@ -29,16 +39,6 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/BertaFlores21"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/bertafloresmartinez"
-      }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "National hackaton award",
-        "fact": "https://datatontos.mantas.space/"
       }
     ]
   },
@@ -48,19 +48,14 @@
         "organization": {
           "name": "Kenemei Technologies SL ",
           "image": {
-            "alt": "KENMEI_1_300ppp.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/27/25770bfd-1068-403d-a1ea-e09d5af6b0a7_kenmei_1_300ppp.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/27/25770bfd-1068-403d-a1ea-e09d5af6b0a7_kenmei_1_300ppp.jpg",
+            "alt": "KENMEI_1_300ppp.jpg"
           }
         },
         "roles": [
           {
             "name": "INNOVATION ENGINEER – DATA SCIENTIST",
             "startDate": "2022-06-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Python",
@@ -79,11 +74,6 @@
             "name": "Head of modelisation and data analysts",
             "startDate": "2021-09-01",
             "finishDate": "2022-06-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Python",
@@ -98,58 +88,31 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "French",
-        "level": "Professional working proficiency"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Microsoft Office 365",
+          "name": "Adobe Photoshop",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "BigQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "R",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Databricks",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "QGIS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
+          "name": "ArcGIS",
           "type": "technology"
         }
       },
@@ -167,13 +130,19 @@
       },
       {
         "skill": {
-          "name": "Adobe Photoshop",
+          "name": "BigQuery",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "ArcGIS",
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Databricks",
           "type": "technology"
         }
       },
@@ -182,19 +151,58 @@
           "name": "Google Cloud",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "QGIS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "R",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "BsC Civil Engineering",
+        "startDate": "2012-09-01",
+        "institution": {
+          "name": "Universitat Politenica de Valencia"
+        },
+        "finishDate": "2016-06-01",
+        "linkedCompetences": [
+          {
+            "name": "QGIS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "MsC Big Data Analytics",
         "startDate": "2019-09-01",
-        "finishDate": "2020-06-01",
         "institution": {
-          "name": "Universitat Politecnica de Valencia",
-          "description": ""
+          "name": "Universitat Politecnica de Valencia"
         },
+        "finishDate": "2020-06-01",
         "linkedCompetences": [
           {
             "name": "Cassandra",
@@ -231,34 +239,36 @@
         "degreeAchieved": true,
         "name": "MsC Civil Engineering",
         "startDate": "2016-09-01",
-        "finishDate": "2018-06-01",
         "institution": {
-          "name": "Universitat Politecnica de Valencia",
-          "description": ""
+          "name": "Universitat Politecnica de Valencia"
         },
+        "finishDate": "2018-06-01",
         "linkedCompetences": [
           {
             "name": "Matlab",
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "BsC Civil Engineering",
-        "startDate": "2012-09-01",
-        "finishDate": "2016-06-01",
-        "institution": {
-          "name": "Universitat Politenica de Valencia",
-          "description": ""
-        },
-        "linkedCompetences": [
-          {
-            "name": "QGIS",
-            "type": "technology"
-          }
-        ]
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -266,8 +276,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/bertafloresmartinez"
+          "URL": "https://www.linkedin.com/in/bertafloresmartinez",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/berfloma",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/BertaFlores21",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "berta.flores@hotmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "647029700",
+          "countryCode": "+34"
         }
       ]
     },
@@ -308,5 +335,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Data scientist in a mobility company\n\n"
   }
 }
