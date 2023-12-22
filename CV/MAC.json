@@ -136,12 +136,42 @@
         },
         "roles": [
           {
-            "name": "Ingeniera de transportes y movilidad",
+            "name": "Data Analyst - Mobility Engineer",
             "startDate": "2019-01-01",
             "finishDate": "2021-03-31",
             "challenges": [
               {
-                "description": "Área de tráfico y movilidad\n\n📊 Technical reports\n🖥️ VBA implementations in continuous tasks\n🚗 Traffic modeling w/Aimsun\n👩‍💻 Python pipelines implementation"
+                "description": "Data science for traffic and mobility solutions development. Main tasks as mobility engineer consists on:\n📊 Technical reports\n🖥️ VBA implementations in continuous tasks\n🚗 Traffic modeling w/Aimsun\n👩‍💻 Python pipelines implementation\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Sheets",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Numpy",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
               }
             ]
           }
