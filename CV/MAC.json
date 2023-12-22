@@ -42,12 +42,157 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Kenmei Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/eee6ff16-c930-432e-ab8f-ca23e37922ba_linkedin-photo-844.linkedin-photo-844",
+            "alt": "23/12/22/eee6ff16-c930-432e-ab8f-ca23e37922ba_linkedin-photo-844.linkedin-photo-844"
+          }
+        },
+        "roles": [
+          {
+            "name": "Innovation engineer - Team leader",
+            "startDate": "2023-07-01",
+            "challenges": [
+              {
+                "description": "📋 Team ceremonies leader\n🛠️ Solutions presentation to clients\n💹 Time series forecasting\n📊 ML algorithms implementation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kenmei Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/cf939141-7acc-4d17-8aa5-b87ff989e5bd_linkedin-photo-844.linkedin-photo-844",
+            "alt": "23/12/22/cf939141-7acc-4d17-8aa5-b87ff989e5bd_linkedin-photo-844.linkedin-photo-844"
+          }
+        },
+        "roles": [
+          {
+            "name": "Innovation engineer - Data scientist",
+            "startDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "📍​ Location-based solutions for 4G and 5G technology users.\n​📈​ Churn analysis\n🧮 MLOps environment implementation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/925960fd-7472-4205-883c-e25d1931849d_linkedin-photo-844.linkedin-photo-844",
+            "alt": "23/12/22/925960fd-7472-4205-883c-e25d1931849d_linkedin-photo-844.linkedin-photo-844"
+          }
+        },
+        "roles": [
+          {
+            "name": "Jefa de Área de Modelización y Ciencia de Datos",
+            "startDate": "2021-11-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "Área de modelización y ciencia de datos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/6622fbb6-f0b3-4c7f-8d98-4b0c5cf4969a_linkedin-photo-844.linkedin-photo-844",
+            "alt": "23/12/22/6622fbb6-f0b3-4c7f-8d98-4b0c5cf4969a_linkedin-photo-844.linkedin-photo-844"
+          }
+        },
+        "roles": [
+          {
+            "name": "Coordinación técnica",
+            "startDate": "2021-03-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "Área de tráfico y movilidad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/ed260750-a753-4f2e-b67a-58967b45b177_linkedin-photo-844.linkedin-photo-844",
+            "alt": "23/12/22/ed260750-a753-4f2e-b67a-58967b45b177_linkedin-photo-844.linkedin-photo-844"
+          }
+        },
+        "roles": [
+          {
+            "name": "Ingeniera de transportes y movilidad",
+            "startDate": "2019-01-01",
+            "finishDate": "2021-03-31",
+            "challenges": [
+              {
+                "description": "Área de tráfico y movilidad\n\n📊 Technical reports\n🖥️ VBA implementations in continuous tasks\n🚗 Traffic modeling w/Aimsun\n👩‍💻 Python pipelines implementation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/93fcb94b-2518-4d1b-9028-d66a6650a6c2_linkedin-photo-844.linkedin-photo-844",
+            "alt": "23/12/22/93fcb94b-2518-4d1b-9028-d66a6650a6c2_linkedin-photo-844.linkedin-photo-844"
+          }
+        },
+        "roles": [
+          {
+            "name": "Estudiante en prácticas",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-01-31",
+            "challenges": [
+              {
+                "description": "Área de tráfico y movilidad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BASE IDEA SL"
+        },
+        "roles": [
+          {
+            "name": "Estudiante en prácticas de ingeniería",
+            "startDate": "2018-03-01",
+            "finishDate": "2018-08-31",
+            "challenges": [
+              {
+                "description": "👷‍♀️ ​ Revisión de proyectos y mediciones en proyectos ubicados en España, Suecia y Senegal.\n🔧​ Dimensionamiento y trazado de la red sanitaria y de pluviales de conjuntos hospitalarios, estudios de viabilidad y trazado de intersecciones en carretera, revisión de mediciones y preparación de ofertas, etc."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Full professional proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "ES",
@@ -57,7 +202,7 @@
       {
         "name": "FR",
         "fullName": "Francés",
-        "level": "Professional working proficiency"
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
