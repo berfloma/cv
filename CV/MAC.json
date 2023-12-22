@@ -276,7 +276,7 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",
@@ -371,7 +371,11 @@
         "startDate": "2012-09-01",
         "institution": {
           "name": "Universitat Politenica de Valencia",
-          "description": "Bachelor's degree covering the three main branches: structures, hydraulic, and transportation, with a specialization in transportation and mobility analysis. Providing strong foundations in mathematics, statistics, and physics"
+          "description": "Bachelor's degree covering the three main branches: structures, hydraulic, and transportation, with a specialization in transportation and mobility analysis. Providing strong foundations in mathematics, statistics, and physics",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/68ea63c7-b2aa-49cc-8b56-a8fc1e3bf366_upv-emblem.png",
+            "alt": "UPV-Emblem.png"
+          }
         },
         "finishDate": "2016-06-01",
         "linkedCompetences": [
