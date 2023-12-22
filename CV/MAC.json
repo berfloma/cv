@@ -8,8 +8,8 @@
     "profile": {
       "name": "Berta",
       "surnames": "Flores Martínez",
-      "title": "Data Scientist and civil engineer",
-      "description": "I consider my analytical and problem-solving skills, advanced knowledge of applied mathematics and statistics along my education background to make me a good fit for a new position.\n\nAs a Civil engineer specialist in the mobility and \n ransportation field, I have four years of professional experience collecting, cleaning and interpreting location-based traffic data to develop and help projects making decisions based on data analytics. In my rol as Mobility Data Analyst I introduced new analytical techniques, key data sources (such as phone geolocation, GPS tracker and travel time data) using multiple input formats, including but not limited to API connections, external and internal databases, and thirdparty services, empowering the development of new and existing products. Besides, I have experience as a team manager, thus my role has been not only the technical expertise, but also the project management and coordination of the employees under\nmy supervision. \n\nAs Innovation Engineer, I have been upgrading my toolkit, including machine learning, mathematics and cloud products to tackle complex problems and find \n nnovating solutions. This combination of technical expertise, adaptability to change and leadership experience makes me a well-rounded candidate who can contribute to the organization.",
+      "title": "Innovation engineer | Masters Big Data Analytics",
+      "description": "Actualmente formo parte del equipo de innovación en Kenmei Technologies desarrollando el rol de Data Scientist e implementando soluciones que optimicen los flujos DataOps.\n\nAnteriormente, tras finalizar el máster en Ingeniería de Caminos, Canales y Puertos, trabajé durante más de tres años como ingeniera de transportes y científica de datos en CPS Infraestructuras, Movilidad y Medio Ambiente llevando a cabo estudios de modelización, tráfico y movilidad. Durante esta etapa pude implementar nuevas formas de trabajo y desarrollar nuevos productos (web requests, procesos ETL, visualización, cloud...) enfocados en la obtención y explotación de nuevas fuentes de datos de movilidad.\n\nEn cuanto a mis proyectos personales, destaco que el continuo trabajo de análisis de datos y mis inquietudes relacionadas con la estadística y la programación hicieron que comenzara a formarme por cuenta propia tanto en análisis de datos como en el lenguaje de programación Python. Dichas inquietudes me llevaron a seguir formándome hasta finalizar el máster en Big Data Analytics, en el cual he aprendido a gestionar grandes volúmenes de datos de manera eficiente, tal como se refleja en mi trabajo final de máster “Análisis y visualización de impacto de los festivales de música en los viajes de Blablacar” que además ha obtenido el segundo premio a nivel nacional en el Datathon Cajamar University Hack.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/89a7d26f-1a1c-43b0-8758-04e54db548ec_prof_pic_sq.jpg",
         "alt": "prof_pic_sq.jpg"
@@ -30,7 +30,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/bertafloresmartinez"
+        "URL": "https://linkedin.com/in/bertafloresmartinez"
       },
       {
         "type": "github",
@@ -39,49 +39,6 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/BertaFlores21"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Kenemei Technologies SL ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/27/25770bfd-1068-403d-a1ea-e09d5af6b0a7_kenmei_1_300ppp.jpg",
-            "alt": "KENMEI_1_300ppp.jpg"
-          }
-        },
-        "roles": [
-          {
-            "name": "INNOVATION ENGINEER – DATA SCIENTIST",
-            "startDate": "2022-06-01",
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "CPS Infraestructuras, Movilidad y Medio Ambiente"
-        },
-        "roles": [
-          {
-            "name": "Head of modelisation and data analysts",
-            "startDate": "2021-09-01",
-            "finishDate": "2022-06-01",
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -250,33 +207,13 @@
           }
         ]
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Leadership skills",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/bertafloresmartinez",
+          "URL": "https://linkedin.com/in/bertafloresmartinez",
           "type": "linkedin"
         },
         {
