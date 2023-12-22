@@ -76,9 +76,10 @@
           {
             "name": "Innovation engineer - Data scientist",
             "startDate": "2022-06-01",
+            "finishDate": "2023-05-01",
             "challenges": [
               {
-                "description": "Data scientist in the Innovation department.\n📍​ Location-based solutions for 4G and 5G technology users.\n​📈​ Churn analysis\n🧮 MLOps environment implementation\nData Viz"
+                "description": "Some of the projects I have worked on:\n• Radio Positioning System algorithm optimization by including 5G metrics and reducing the processing time\nby 15%\n• Churn forecasting\n• Machine learning models for classification problems\n• MLOps production environment development, including security methods, client and data scientist\ndashboards and drift and others customizable ad-hoc analysis.\nWorking with tools such as:\n• Python\n• PySpark and Spark SQL\n• BigQuery\n• SQL (Postgresql, PostGIS)\n• GIT (Bitbucket)\n• Docker\n• Data manipulation libraries(e. g. Pandas, Numpy)\n• Viz libraries(e.g. Plotly, Panel, Seaborn, Bokeh)\n• Microservices/API libraries (e.g. Flask, Gunicorn, WSGI)\n• Machine Learning libraries(e.g. Sklearn, XGBoost, lightGBM)\n• AutoML libraries(e.g. AutoGluon, PyCaret, H2O, TPOT)\n• Dashboards (e.g. Tableau, Grafana)\n• Interactive demo tools (Gradio)\n• Geographical Information Sytems (e.g. QGIS, GDAL, GeoPandas, osmnx, rasters, rmm files)\nAnd working in cloud-based environments:\n• Azure: Databricks, Azure Storage and Synapse Analytics\n• GCP: Buckets, SQL, BigQuery, CloudRun, CloudBuild"
               }
             ],
             "competences": [
