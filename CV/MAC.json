@@ -208,12 +208,38 @@
         },
         "roles": [
           {
-            "name": "Coordinación técnica",
+            "name": "Technical coordinator",
             "startDate": "2021-03-01",
             "finishDate": "2022-02-28",
             "challenges": [
               {
-                "description": "Área de tráfico y movilidad"
+                "description": "Data Scientist specializing in traffic and mobility solutions development, with a strong foundation in transforming Excel spreadsheets into sophisticated methodologies and solutions. Accomplished speaker at national mobility events, demonstrated organizational skills through internal workshops, and initiated the adoption of Asana for enhanced project management.\nAs technical coordinator:\n- Gained valuable client-facing experience through direct interactions, understanding client requirements, and delivering tailored solutions.\n- Featured as a speaker at national mobility events, sharing insights and expertise in the field of traffic and mobility solutions development.\n- Organized internal workshops covering MS Excel, QGIS, and Python, aimed at enhancing the technical abilities of traffic teams, fostering continuous skill development."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Asana",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
+              },
+              {
+                "name": "R",
+                "type": "technology"
               }
             ]
           }
