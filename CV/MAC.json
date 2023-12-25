@@ -501,7 +501,11 @@
         "startDate": "2021-03-01",
         "institution": {
           "name": "DataCamp",
-          "URL": "https://www.datacamp.com/statement-of-accomplishment/track/4d93af8f730cb42cdafc888a5c26fe0f17bc8754"
+          "URL": "https://www.datacamp.com/statement-of-accomplishment/track/4d93af8f730cb42cdafc888a5c26fe0f17bc8754",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/25/a16e4b3a-b85b-4ea7-8b19-b4bbf8c1ae4d_descarga-(7).png",
+            "alt": "descarga (7).png"
+          }
         },
         "linkedCompetences": [
           {
