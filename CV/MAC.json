@@ -187,12 +187,12 @@
         },
         "roles": [
           {
-            "name": "Jefa de Área de Modelización y Ciencia de Datos",
+            "name": "Head of Modelization and Data Science",
             "startDate": "2021-11-01",
             "finishDate": "2022-06-30",
             "challenges": [
               {
-                "description": "Área de modelización y ciencia de datos"
+                "description": "Data Science for traffic and mobility solutions development, working in different projects such as:\n- Machine learning models for classification problems\n- External mobility data integration: e.g. Tomtom, Google, Here, web requests and Telco Data\n- Development of mobility simulation tools adapters (such as python pipelines) to create final products\n- Develpment of micro and macro (4 stages models) mobility models.\n\nWorking with tools like:\n- Python\n- R\n- Aimsun\n- Visim\n- Vissum\n- Qlik\n"
               }
             ]
           }
