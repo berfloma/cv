@@ -280,12 +280,26 @@
         },
         "roles": [
           {
-            "name": "Estudiante en prácticas",
+            "name": "Trainee",
             "startDate": "2018-09-01",
             "finishDate": "2019-01-31",
             "challenges": [
               {
-                "description": "Área de tráfico y movilidad"
+                "description": "I worked with:\n- Excel\n- MS Word\n- Autocad\n- Google\n- QGIS"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Autocad",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
               }
             ]
           }
