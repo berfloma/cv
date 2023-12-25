@@ -331,24 +331,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Adobe Photoshop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ArcGIS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Autocad",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Azure",
           "type": "technology"
         }
@@ -380,6 +362,12 @@
       {
         "skill": {
           "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
           "type": "technology"
         }
       },
@@ -601,6 +589,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Google Cloud",
+        "type": "technology"
+      },
+      {
+        "name": "Pandas",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "QGIS",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Data scientist in a mobility company\n\n",
     "goodPractices": "As a Civil Engineer, diving into technical best practices was one of the most mind-bended and knotted universe to discover when I started learning Big Data.\nAs a developer, I love cleanliness and simplicity.\nAs tech enthusiastic, it have been difficult to find a project where TDD was a priority, so I have started to include it in my side projects."
   }
