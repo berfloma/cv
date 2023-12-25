@@ -453,6 +453,22 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Data Scientist with Python",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "DataCamp",
+          "URL": "https://www.datacamp.com/statement-of-accomplishment/track/4d93af8f730cb42cdafc888a5c26fe0f17bc8754"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "MsC Big Data Analytics",
