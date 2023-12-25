@@ -443,7 +443,11 @@
         "name": " Modelización de la movilidad: Análisis con modelos de previsión y simulación avanzados",
         "startDate": "2022-05-01",
         "institution": {
-          "name": "Col·legi d'Enginyers de Camins, Canals i Ports"
+          "name": "Col·legi d'Enginyers de Camins, Canals i Ports",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/25/51d97952-1c6a-4f84-aef9-4acd242470c4_camins-cat.png",
+            "alt": "camins-cat.png"
+          }
         }
       },
       {
