@@ -580,6 +580,14 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
