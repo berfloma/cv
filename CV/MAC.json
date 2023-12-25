@@ -404,6 +404,25 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": " PyQGIS (Python para QGIS)",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "MappingGIS"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "QGIS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "BsC Civil Engineering",
