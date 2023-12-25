@@ -452,7 +452,11 @@
         "name": " PyQGIS (Python para QGIS)",
         "startDate": "2022-07-01",
         "institution": {
-          "name": "MappingGIS"
+          "name": "MappingGIS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/25/e044c9fc-e914-4971-a039-54ae5e54beb7_descarga-(5).png",
+            "alt": "descarga (5).png"
+          }
         },
         "linkedCompetences": [
           {
