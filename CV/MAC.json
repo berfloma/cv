@@ -337,12 +337,18 @@
         },
         "roles": [
           {
-            "name": "Estudiante en prácticas de ingeniería",
+            "name": "Trainee",
             "startDate": "2018-03-01",
             "finishDate": "2018-08-31",
             "challenges": [
               {
-                "description": "👷‍♀️ ​ Revisión de proyectos y mediciones en proyectos ubicados en España, Suecia y Senegal.\n🔧​ Dimensionamiento y trazado de la red sanitaria y de pluviales de conjuntos hospitalarios, estudios de viabilidad y trazado de intersecciones en carretera, revisión de mediciones y preparación de ofertas, etc."
+                "description": "-  Project Review and Measurements for projects located in Spain, Sweden, and Senegal.\n-  Sizing and layout of sanitary and stormwater networks for hospital complexes, feasibility studies, and road intersection layout, measurement review, and proposal preparation, etc."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
               }
             ]
           }
