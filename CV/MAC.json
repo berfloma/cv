@@ -584,6 +584,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Leadership skills",
           "type": "practice"
         }
