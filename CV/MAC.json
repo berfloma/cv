@@ -421,25 +421,19 @@
       },
       {
         "skill": {
-          "name": "Pandas",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "QGIS",
+          "name": "R",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "R",
+          "name": "SQL",
           "type": "technology"
         }
       }
@@ -660,6 +654,7 @@
       ],
       "preferredRoles": [
         "Data Analyst & BI",
+        "Data Engineer",
         "Data Scientist"
       ]
     },
@@ -677,11 +672,11 @@
         "type": "technology"
       },
       {
-        "name": "Google Cloud",
+        "name": "Databricks",
         "type": "technology"
       },
       {
-        "name": "Pandas",
+        "name": "Google Cloud",
         "type": "technology"
       },
       {
@@ -689,7 +684,7 @@
         "type": "technology"
       },
       {
-        "name": "QGIS",
+        "name": "SQL",
         "type": "technology"
       }
     ],
