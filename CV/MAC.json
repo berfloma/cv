@@ -8,8 +8,8 @@
     "profile": {
       "name": "Berta",
       "surnames": "Flores Martínez",
-      "title": "LEARNING ABOUT TECHNOLOGY TO SOLVE PROBLEMS WITH DATA. GIS ENTHUSIAST. ",
-      "description": "I consider my analytical and problem-solving skills, advanced knowledge of applied mathematics and statistics along my education background to make me a good fit for a new position. Due to my interest in statistics and programming, I acquired knowledge in\nPython through self-study and a masters in Big Data Analytics. This knowledge has been useful not only in my professional career, but also in my side projects.\n\nAs a Civil engineer specialist in the mobility and transportation field, I have four years of\nprofessional experience collecting, cleaning and interpreting location-based traffic data to develop and help projects making decisions based on data analytics. In my rol as Mobility Data Analyst I introduced new analytical techniques, key data sources (such as phone geolocation, GPS tracker and travel time data) using multiple input formats, including but not limited to API connections, external and internal databases, and thirdparty services, empowering the development of new and existing products. Besides, I have experience as a team manager, thus my role has been not only the technical expertise, but also the project management and coordination of the employees under\nmy supervision.\n\nAs Innovation Engineer, I have been upgrading my toolkit, including machine learning, mathematics and cloud products to tackle complex problems and find innovating solutions. This combination of technical\nexpertise, adaptability to change and leadership experience makes me a well-rounded candidate who can contribute to the organization.",
+      "title": "Innovation engineer | Masters Big Data Analytics",
+      "description": "Currently, I am part of the innovation team at Kenmei Technologies, working as a Data Scientist and implementing solutions to optimize DataOps workflows.\n\nPreviously, after completing my Master's degree in Civil Engineering, I worked for over three years as a transportation engineer and data scientist at CPS Infraestructuras, Movilidad y Medio Ambiente, conducting modeling, traffic, and mobility studies. During this period, I was able to implement new ways of working and develop new products (web requests, ETL processes, visualization, cloud...) focused on obtaining and exploiting new mobility data sources.\n\nRegarding my personal projects, I highlight that my continuous work in data analysis and my interests in statistics and programming led me to self-train in both data analysis and the Python programming language. These interests led me to continue my education until I completed a Master's degree in Big Data Analytics, where I learned to manage large volumes of data efficiently, as reflected in my final master's project \"Analysis and visualization of the impact of music festivals on Blablacar trips,\" which also won the second prize nationally in the Datathon Cajamar University Hack.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/89a7d26f-1a1c-43b0-8758-04e54db548ec_prof_pic_sq.jpg",
         "alt": "prof_pic_sq.jpg"
@@ -46,11 +46,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Kenmei Technologies",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/3c30290e-201a-467d-b0f0-a86dd84dd7f6_linkedin-photo-844.linkedin-photo-844",
-            "alt": "23/12/22/3c30290e-201a-467d-b0f0-a86dd84dd7f6_linkedin-photo-844.linkedin-photo-844"
-          }
+          "name": "Kenmei Technologies"
         },
         "roles": [
           {
@@ -58,53 +54,7 @@
             "startDate": "2023-07-01",
             "challenges": [
               {
-                "description": "Responsible for managing the team. Part manager, part hands-on developer. Some of the projects I'm working on:\n\n- Time series forecasting: anomalies detection and energy savings\n- ML algorithms implementation\n- SKLearn algorithms implementation\n- Dashboard development\n- Multi-agent LLM tool\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Airflow",
-                "type": "technology"
-              },
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "BigQuery",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Databricks",
-                "type": "technology"
-              },
-              {
-                "name": "Google Looker Studio",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "LangChain",
-                "type": "technology"
-              },
-              {
-                "name": "PySpark",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
-                "type": "technology"
+                "description": "📋 Team ceremonies leader\n🛠️ Solutions presentation to clients\n💹 Time series forecasting\n📊 ML algorithms implementation"
               }
             ]
           }
@@ -112,74 +62,15 @@
       },
       {
         "organization": {
-          "name": "Kenmei Technologies",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/ae800d9f-ac72-4c4d-a821-f84d470e09a6_linkedin-photo-844.linkedin-photo-844",
-            "alt": "23/12/22/ae800d9f-ac72-4c4d-a821-f84d470e09a6_linkedin-photo-844.linkedin-photo-844"
-          }
+          "name": "Kenmei Technologies"
         },
         "roles": [
           {
             "name": "Innovation engineer - Data scientist",
             "startDate": "2022-06-01",
-            "finishDate": "2023-05-01",
             "challenges": [
               {
-                "description": "Some of the projects I have worked on:\n- Radio Positioning System algorithm optimization by including 5G metrics and reducing the processing time\nby 15%\n- Churn forecasting\n- Machine learning models for classification problems\n- MLOps production environment development, including security methods.\n\nWorking with tools such as:\n- Python\n- PySpark and Spark SQL\n- BigQuery\n- SQL (Postgresql, PostGIS)\n- GIT (Bitbucket)\n- Docker\n- Data manipulation libraries(e. g. Pandas, Numpy)\n- Viz libraries(e.g. Plotly, Panel, Seaborn, Bokeh)\n- Microservices/API libraries (e.g. Flask, Gunicorn, WSGI)\n- Machine Learning libraries(e.g. Sklearn, XGBoost, lightGBM)\n- AutoML libraries(e.g. AutoGluon, PyCaret, H2O, TPOT)\n- Dashboards (e.g. Tableau, Grafana)\n- Interactive demo tools (Streamlit)\n- Geographical Information Sytems (e.g. QGIS, GDAL, GeoPandas, osmnx, rasters, rmm files)\nAnd working in cloud-based environments:\n- Azure: Databricks, Azure Storage and Synapse Analytics\n- GCP: Buckets, SQL, BigQuery, CloudRun, CloudBuild"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Databricks",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "Grafana",
-                "type": "technology"
-              },
-              {
-                "name": "Pandas",
-                "type": "technology"
-              },
-              {
-                "name": "PySpark",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "QGIS",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "Scikit-learn",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
-                "type": "technology"
+                "description": "📍​ Location-based solutions for 4G and 5G technology users.\n​📈​ Churn analysis\n🧮 MLOps environment implementation"
               }
             ]
           }
@@ -187,20 +78,16 @@
       },
       {
         "organization": {
-          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/da63dd2b-3252-47cc-beda-c8446cc74413_linkedin-photo-844.linkedin-photo-844",
-            "alt": "23/12/22/da63dd2b-3252-47cc-beda-c8446cc74413_linkedin-photo-844.linkedin-photo-844"
-          }
+          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L."
         },
         "roles": [
           {
-            "name": "Head of Modelization and Data Science",
+            "name": "Jefa de Área de Modelización y Ciencia de Datos",
             "startDate": "2021-11-01",
             "finishDate": "2022-06-30",
             "challenges": [
               {
-                "description": "Data Science for traffic and mobility solutions development, working in different projects such as:\n- Machine learning models for classification problems\n- External mobility data integration: e.g. Tomtom, Google, Here, web requests and Telco Data\n- Development of mobility simulation tools adapters (such as python pipelines) to create final products\n- Develpment of micro and macro (4 stages models) mobility models.\n\nWorking with tools like:\n- Python\n- R\n- Aimsun\n- Visim\n- Vissum\n- Qlik\n"
+                "description": "Área de modelización y ciencia de datos"
               }
             ]
           }
@@ -208,46 +95,16 @@
       },
       {
         "organization": {
-          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/66ba92e1-0bfc-4754-917a-2c768bbbf413_linkedin-photo-844.linkedin-photo-844",
-            "alt": "23/12/22/66ba92e1-0bfc-4754-917a-2c768bbbf413_linkedin-photo-844.linkedin-photo-844"
-          }
+          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L."
         },
         "roles": [
           {
-            "name": "Technical coordinator",
+            "name": "Coordinación técnica",
             "startDate": "2021-03-01",
             "finishDate": "2022-02-28",
             "challenges": [
               {
-                "description": "Data Scientist specializing in traffic and mobility solutions development, with a strong foundation in transforming Excel spreadsheets into sophisticated methodologies and solutions. Accomplished speaker at national mobility events, demonstrated organizational skills through internal workshops, and initiated the adoption of Asana for enhanced project management.\nAs technical coordinator:\n- Gained valuable client-facing experience through direct interactions, understanding client requirements, and delivering tailored solutions.\n- Featured as a speaker at national mobility events, sharing insights and expertise in the field of traffic and mobility solutions development.\n- Organized internal workshops covering MS Excel, QGIS, and Python, aimed at enhancing the technical abilities of traffic teams, fostering continuous skill development."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Asana",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "QGIS",
-                "type": "technology"
-              },
-              {
-                "name": "R",
-                "type": "technology"
+                "description": "Área de tráfico y movilidad"
               }
             ]
           }
@@ -255,50 +112,16 @@
       },
       {
         "organization": {
-          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/c44e719d-5b9b-4171-8720-0ff75b9b311b_linkedin-photo-844.linkedin-photo-844",
-            "alt": "23/12/22/c44e719d-5b9b-4171-8720-0ff75b9b311b_linkedin-photo-844.linkedin-photo-844"
-          }
+          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L."
         },
         "roles": [
           {
-            "name": "Data Analyst - Mobility Engineer",
+            "name": "Ingeniera de transportes y movilidad",
             "startDate": "2019-01-01",
             "finishDate": "2021-03-31",
             "challenges": [
               {
-                "description": "Data science for traffic and mobility solutions development. Main tasks as mobility engineer consists on:\n- Technical reports\n- VBA implementations in continuous tasks\n- Traffic modeling w/Aimsun\n- Python pipelines implementation\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Google Sheets",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "Numpy",
-                "type": "technology"
-              },
-              {
-                "name": "Pandas",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "QGIS",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Basic",
-                "type": "technology"
+                "description": "Área de tráfico y movilidad\n\n📊 Technical reports\n🖥️ VBA implementations in continuous tasks\n🚗 Traffic modeling w/Aimsun\n👩‍💻 Python pipelines implementation"
               }
             ]
           }
@@ -306,34 +129,16 @@
       },
       {
         "organization": {
-          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/257ad721-0a78-4341-96b8-971b7b2a6abd_linkedin-photo-844.linkedin-photo-844",
-            "alt": "23/12/22/257ad721-0a78-4341-96b8-971b7b2a6abd_linkedin-photo-844.linkedin-photo-844"
-          }
+          "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L."
         },
         "roles": [
           {
-            "name": "Trainee",
+            "name": "Estudiante en prácticas",
             "startDate": "2018-09-01",
             "finishDate": "2019-01-31",
             "challenges": [
               {
-                "description": "I worked with:\n- Excel\n- MS Word\n- Autocad\n- Google\n- QGIS"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Autocad",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "QGIS",
-                "type": "technology"
+                "description": "Área de tráfico y movilidad"
               }
             ]
           }
@@ -345,18 +150,12 @@
         },
         "roles": [
           {
-            "name": "Trainee",
+            "name": "Estudiante en prácticas de ingeniería",
             "startDate": "2018-03-01",
             "finishDate": "2018-08-31",
             "challenges": [
               {
-                "description": "-  Project Review and Measurements for projects located in Spain, Sweden, and Senegal.\n-  Sizing and layout of sanitary and stormwater networks for hospital complexes, feasibility studies, and road intersection layout, measurement review, and proposal preparation, etc."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
+                "description": "👷‍♀️ ​ Revisión de proyectos y mediciones en proyectos ubicados en España, Suecia y Senegal.\n🔧​ Dimensionamiento y trazado de la red sanitaria y de pluviales de conjuntos hospitalarios, estudios de viabilidad y trazado de intersecciones en carretera, revisión de mediciones y preparación de ofertas, etc."
               }
             ]
           }
@@ -383,6 +182,12 @@
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Autocad",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Azure",
@@ -415,6 +220,12 @@
       },
       {
         "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Microsoft Office 365",
           "type": "technology"
         }
@@ -440,167 +251,24 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": " Modelización de la movilidad: Análisis con modelos de previsión y simulación avanzados",
-        "startDate": "2022-05-01",
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master - Big Data Analytics, Information technology",
+        "startDate": "2019-01-01",
         "institution": {
-          "name": "Col·legi d'Enginyers de Camins, Canals i Ports",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/25/51d97952-1c6a-4f84-aef9-4acd242470c4_camins-cat.png",
-            "alt": "camins-cat.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": " PyQGIS (Python para QGIS)",
-        "startDate": "2022-07-01",
-        "institution": {
-          "name": "MappingGIS",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/25/e044c9fc-e914-4971-a039-54ae5e54beb7_descarga-(5).png",
-            "alt": "descarga (5).png"
-          }
+          "name": "Universitat Politècnica de València (UPV)"
         },
-        "linkedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "QGIS",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2020-01-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "BsC Civil Engineering",
-        "startDate": "2012-09-01",
+        "name": "Master of Engineering (M.Eng.), Ingeniería civil",
+        "startDate": "2016-01-01",
         "institution": {
-          "name": "Universitat Politenica de Valencia",
-          "description": "Bachelor's degree covering the three main branches: structures, hydraulic, and transportation, with a specialization in transportation and mobility analysis. Providing strong foundations in mathematics, statistics, and physics",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/68ea63c7-b2aa-49cc-8b56-a8fc1e3bf366_upv-emblem.png",
-            "alt": "UPV-Emblem.png"
-          }
+          "name": "Universitat Politècnica de València (UPV)"
         },
-        "finishDate": "2016-06-01",
-        "linkedCompetences": [
-          {
-            "name": "QGIS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Data Scientist with Python",
-        "startDate": "2021-03-01",
-        "institution": {
-          "name": "DataCamp",
-          "URL": "https://www.datacamp.com/statement-of-accomplishment/track/4d93af8f730cb42cdafc888a5c26fe0f17bc8754",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/25/a16e4b3a-b85b-4ea7-8b19-b4bbf8c1ae4d_descarga-(7).png",
-            "alt": "descarga (7).png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "MsC Big Data Analytics",
-        "startDate": "2019-09-01",
-        "institution": {
-          "name": "Universitat Politecnica de Valencia",
-          "description": "Master's degree covering the following courses:\n• Introducción to big data\n• Introducción to business intelligence\n• Big data models and management environments\n• Privacity\n• What is the meaning of data science?\n• Tools for result visualization\n• Medical information visualization\n• IOT\n• Big data architectures in bank insvestment\n• Bash/Unix basics\n• Statistical tolos in big data\n• Cloud computing and data cloud management\n• Last generation tolos in big data\n• Big data and real time\n• Security and privacity\n• Natural language processing y text mining\n• Text mining in social media\n• Financial analysis\n• Nosql",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/2e081960-de28-4f50-99ad-c8e9fff87cc3_upv-emblem.png",
-            "alt": "UPV-Emblem.png"
-          }
-        },
-        "finishDate": "2020-06-01",
-        "linkedCompetences": [
-          {
-            "name": "Cassandra",
-            "type": "technology"
-          },
-          {
-            "name": "Google Cloud",
-            "type": "technology"
-          },
-          {
-            "name": "Kafka",
-            "type": "technology"
-          },
-          {
-            "name": "Kibana",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "NoSQL",
-            "type": "technology"
-          },
-          {
-            "name": "Spark",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "MsC Civil Engineering",
-        "startDate": "2016-09-01",
-        "institution": {
-          "name": "Universitat Politecnica de Valencia",
-          "description": "Master's degree covering the three main branches: structures, hydraulic, and transportation, with a specialization in transportation and mobility analysis.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/22/54cd426a-086b-4cae-a5c7-d825e8950235_upv-emblem.png",
-            "alt": "UPV-Emblem.png"
-          }
-        },
-        "finishDate": "2018-06-01",
-        "linkedCompetences": [
-          {
-            "name": "Matlab",
-            "type": "technology"
-          }
-        ]
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Adaptability to change",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Leadership skills",
-          "type": "practice"
-        }
+        "finishDate": "2018-01-01"
       }
     ]
   },
