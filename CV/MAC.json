@@ -58,10 +58,14 @@
             "startDate": "2023-07-01",
             "challenges": [
               {
-                "description": "Responsible for managing the team. Part manager, part hands-on developer. Some of the projects I'm working on:\n\n- Time series forecasting\n- ML algorithms implementation\n- SKLearn algorithms implementation\n- Dasboard developmet\n"
+                "description": "Responsible for managing the team. Part manager, part hands-on developer. Some of the projects I'm working on:\n\n- Time series forecasting: anomalies detection and energy savings\n- ML algorithms implementation\n- SKLearn algorithms implementation\n- Dashboard development\n- Multi-agent LLM tool\n"
               }
             ],
             "competences": [
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
               {
                 "name": "Azure",
                 "type": "technology"
@@ -84,6 +88,10 @@
               },
               {
                 "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "LangChain",
                 "type": "technology"
               },
               {
@@ -617,15 +625,6 @@
           "URL": "https://twitter.com/BertaFlores21",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "berta.flores@hotmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "647029700",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -660,7 +659,7 @@
         }
       ],
       "preferredRoles": [
-        "Data Analysis & BI",
+        "Data Analyst & BI",
         "Data Scientist"
       ]
     },
