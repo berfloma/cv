@@ -47,6 +47,10 @@
       {
         "organization": {
           "name": "Kenmei Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/04/388dfcda-3065-4e79-b814-4a11435d6fbf_images.png",
+            "alt": "images.png"
+          },
           "URL": "https://www.kenmei.ai/"
         },
         "roles": [
