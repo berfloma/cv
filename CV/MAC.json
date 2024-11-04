@@ -68,9 +68,56 @@
           {
             "name": "Innovation engineer - Data scientist",
             "startDate": "2022-06-01",
+            "finishDate": "2023-07-01",
             "challenges": [
               {
-                "description": "📍​ Location-based solutions for 4G and 5G technology users.\n​📈​ Churn analysis\n🧮 MLOps environment implementation"
+                "description": "As Innovation Engineer, I work in:\n● Developed innovative solutions for users of 4G and 5G technologies using processed data stored in a data lake, with implementation in Python to enhance connectivity and user experience.\n● Conducted comprehensive churn analysis to identify patterns and improve customer retention strategies, utilizing data manipulation libraries such as Pandas and NumPy, as well as machine learning libraries like Scikit-Learn, XGBoost, and LightGBM.\n● Established and implemented a robust MLOps environment to streamline machine learning workflows, incorporating monitoring tools to evaluate innovative solutions and develop dashboards using Grafana for real-time insights."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "BigQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Databricks",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Kubernetes Engine",
+                "type": "technology"
+              },
+              {
+                "name": "Google Looker Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Hadoop",
+                "type": "technology"
+              },
+              {
+                "name": "LangChain",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
               }
             ]
           }
