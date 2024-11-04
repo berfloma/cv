@@ -29,10 +29,6 @@
     ],
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://linkedin.com/in/bertafloresmartinez"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/berfloma"
       },
@@ -275,10 +271,6 @@
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
-        {
-          "URL": "https://linkedin.com/in/bertafloresmartinez",
-          "type": "linkedin"
-        },
         {
           "URL": "https://github.com/berfloma",
           "type": "github"
