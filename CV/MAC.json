@@ -46,7 +46,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "Kenmei Technologies"
+          "name": "Kenmei Technologies",
+          "URL": "https://www.kenmei.ai/"
         },
         "roles": [
           {
@@ -55,6 +56,52 @@
             "challenges": [
               {
                 "description": "As a Team Leader, I am dedicated to fostering a collaborative and high-performing environment within the team by developing the following functions:\n● Responsible for establishing and leading all required Scrum sessions, ensuring alignment with Scrum methodology and promoting team productivity.\n● Serve as a bond, effectively communicating challenges and blockers faced by the innovation team to leadership and ensuring transparency across teams.\n● Collaborate with other teams to ensure that product development aligns with requirements and delivers incremental improvements.\n● Participate in industry events, such as the Mobile World Congress, to stay informed on the latest trends and innovations while fostering professional connections.\n\nIn my capacity as a Developer, I actively participate in the following projects:\n● Developed time series forecasting models using Scikit-Learn algorithms for anomaly detection and energy-saving maximization, optimizing operational efficiency and resource allocation.\n● Designed custom solutions focused on optimizing performance, identifying ideal locations, and discovering best-fit strategies to meet specific project needs using existing cloud solutions (GCP and Azure).\n● Built data summary dashboards in Looker, leveraging data stored in BigQuery to provide actionable insights and enhance decision-making processes.\n● Set up ETL workflows in both Google Cloud Platform (GCP) and Azure, streamlining data processing and ensuring reliable data availability across platforms.\n● Developed a multi-agent chatbot service using OpenAI’s language models, specializing in consulting telecom solutions and providing expert guidance tailored to sector-specific challenges."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Airflow",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "BigQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Databricks",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Google Looker Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Hadoop",
+                "type": "technology"
+              },
+              {
+                "name": "LangChain",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
               }
             ]
           }
