@@ -249,16 +249,17 @@
       },
       {
         "organization": {
-          "name": "BASE IDEA SL"
+          "name": "BASE IDEA SL",
+          "URL": "https://ingenieriabaseidea.com/"
         },
         "roles": [
           {
-            "name": "Estudiante en prácticas de ingeniería",
+            "name": "Engineering Intern",
             "startDate": "2018-03-01",
             "finishDate": "2018-08-31",
             "challenges": [
               {
-                "description": "👷‍♀️ ​ Revisión de proyectos y mediciones en proyectos ubicados en España, Suecia y Senegal.\n🔧​ Dimensionamiento y trazado de la red sanitaria y de pluviales de conjuntos hospitalarios, estudios de viabilidad y trazado de intersecciones en carretera, revisión de mediciones y preparación de ofertas, etc."
+                "description": "● Reviewed projects and conducted measurements for initiatives located in Spain, Sweden, and Senegal.\n● Performed sizing and layout design for sanitation and stormwater networks in hospital complexes, including feasibility studies and intersection layout design.\n● Reviewed measurements and prepared proposals for project bids, ensuring accuracy and competitiveness."
               }
             ]
           }
