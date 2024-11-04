@@ -164,12 +164,26 @@
         },
         "roles": [
           {
-            "name": "Coordinación técnica",
+            "name": "Mobility and transportation engineer - Technical coordination",
             "startDate": "2021-03-01",
             "finishDate": "2022-02-28",
             "challenges": [
               {
-                "description": "Área de tráfico y movilidad"
+                "description": "In my role as Technical Coordinator, in addition to developing solutions in the area of Traffic Engineering and Flow Analysis, my responsibilities included:\n● Conducted *meetings with clients* to present project progress and define next steps, ensuring alignment and fostering strong client relationships.\n● Prioritized, defined, and assigned tasks to the traffic team, ensuring efficient workflow and project progress.\n● *Established priorities* for various traffic teams to align efforts with organizational goals and client needs.\n● Developed and proposed innovative projects that address client interests and enhance service offerings.\n● Defined the scope of each project to ensure clarity in objectives, deliverables, and timelines.\n● Prepared *public tenders and technical proposals* that responded to bids, showcasing the team's expertise and capabilities."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Qlik",
+                "type": "technology"
               }
             ]
           }
