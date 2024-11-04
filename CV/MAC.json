@@ -62,7 +62,8 @@
       },
       {
         "organization": {
-          "name": "Kenmei Technologies"
+          "name": "Kenmei Technologies",
+          "URL": "https://www.kenmei.ai/"
         },
         "roles": [
           {
