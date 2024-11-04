@@ -226,12 +226,22 @@
         },
         "roles": [
           {
-            "name": "Estudiante en prácticas",
+            "name": "Engineering Intern",
             "startDate": "2018-09-01",
             "finishDate": "2019-01-31",
             "challenges": [
               {
-                "description": "Área de tráfico y movilidad"
+                "description": "Traffic and mobility data analyst"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "VBA",
+                "type": "technology"
               }
             ]
           }
