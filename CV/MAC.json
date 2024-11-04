@@ -129,12 +129,30 @@
         },
         "roles": [
           {
-            "name": "Jefa de Área de Modelización y Ciencia de Datos",
+            "name": "Head of Modeling and Data Science - Mobility",
             "startDate": "2021-11-01",
             "finishDate": "2022-06-30",
             "challenges": [
               {
-                "description": "Área de modelización y ciencia de datos"
+                "description": "Some of the tasks I undertake as Head of Modeling and Data Science include:\n\n● Championed the adoption of new tools, including *APIs, cloud technologies, and Python libraries for data analysis*, aimed at optimizing daily operations within the department.\n● Designed and implemented four-stage macroscopic simulation models, utilizing advanced algorithms and tools such as *VISUM*.\n● Developed microsimulation models using *AIMSUN* to analyze traffic flow and optimize transportation systems.\n● Integrated mobility data from telephony sources into workflows by creating Python scripts to query partner APIs, enhancing *data accessibility and usability*.\n● Presented on the application of data in solving mobility challenges at industry *national conferences*, sharing insights and best practices.\n● Developed business *dashboards using Qlik* to provide actionable insights and support strategic decision-making."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "QGIS",
+                "type": "technology"
+              },
+              {
+                "name": "Qlik",
+                "type": "technology"
               }
             ]
           }
