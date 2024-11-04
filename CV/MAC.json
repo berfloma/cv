@@ -195,12 +195,26 @@
         },
         "roles": [
           {
-            "name": "Ingeniera de transportes y movilidad",
+            "name": "Mobility and transportation engineer",
             "startDate": "2019-01-01",
             "finishDate": "2021-03-31",
             "challenges": [
               {
-                "description": "Área de tráfico y movilidad\n\n📊 Technical reports\n🖥️ VBA implementations in continuous tasks\n🚗 Traffic modeling w/Aimsun\n👩‍💻 Python pipelines implementation"
+                "description": "As part of the Traffic and Mobility Area, I develop solutions that include:\n\n●  Conduct *traffic engineering studies and flow analysis* to optimize transportation systems and enhance traffic management.\n● Perform *spatial analysis* to understand patterns in territory and mobility interactions, aiding in urban planning optimization.\n● Prepare comprehensive *technical reports* to effectively communicate findings and insights to stakeholders, ensuring clarity and actionable recommendations.\n● Develop *VBA scripts* to automate and streamline continuous tasks, enhancing efficiency and accuracy in data processing.\n● Utilize AIMSUN for traffic modeling to simulate and analyze transportation systems, supporting effective planning and decision-making.\n● Implement *Python data pipelines* to automate data extraction, transformation, and loading (ETL) processes, significantly improving data workflow efficiency."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Qlik",
+                "type": "technology"
               }
             ]
           }
