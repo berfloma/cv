@@ -222,6 +222,10 @@
       {
         "organization": {
           "name": "CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/04/c6edc44a-0df2-42b3-9c1d-b012256cb381_vps.png",
+            "alt": "vps.png"
+          },
           "URL": "https://cps.es/"
         },
         "roles": [
