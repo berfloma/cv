@@ -119,7 +119,7 @@
             "finishDate": "2023-07-01",
             "challenges": [
               {
-                "description": "As Innovation Engineer, I work in:\n\n● Developed innovative solutions for users of 4G and 5G technologies using processed data stored in a data lake, with implementation in Python to enhance connectivity and user experience.\n● Conducted comprehensive churn analysis to identify patterns and improve customer retention strategies, utilizing data manipulation libraries such as Pandas and NumPy, as well as machine learning libraries like Scikit-Learn, XGBoost, and LightGBM.\n● Established and implemented a robust MLOps environment to streamline machine learning workflows, incorporating monitoring tools to evaluate innovative solutions and develop dashboards using Grafana for real-time insights."
+                "description": "As Innovation Engineer, I work in:\n\n● Develop innovative solutions for users of 4G and 5G technologies using processed data stored in a data lake, with implementation in Python to enhance connectivity and user experience.\n● Conduct comprehensive churn analysis to identify patterns and improve customer retention strategies, utilizing data manipulation libraries such as Pandas and NumPy, as well as machine learning libraries like Scikit-Learn, XGBoost, and LightGBM.\n● Establish and implemented a robust MLOps environment to streamline machine learning workflows, incorporating monitoring tools to evaluate innovative solutions and develop dashboards using Grafana for real-time insights."
               }
             ],
             "competences": [
