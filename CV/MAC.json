@@ -427,6 +427,12 @@
           "name": "SQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "dbt",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
